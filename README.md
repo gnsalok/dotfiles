@@ -36,6 +36,22 @@ The project is organized into focused modules so you can depend only on what you
 
 ---
 
+## ⚙️ New Machine Setup
+
+Run from repo root:
+
+```bash
+make setup
+```
+
+This links dotfiles and installs skills/prompts globally for Codex and Copilot using symlinks.
+
+Detailed setup + troubleshooting:
+
+- [Global Skills Setup](GLOBAL-SKILLS-SETUP.md)
+
+---
+
 ## 📦 Tech & Integrations (optional)
 
 - Editor: Vim
